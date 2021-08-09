@@ -5,7 +5,7 @@ export default {
   // Global App headers: https://go.nuxtjs.dev/config-head
   head: {
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ru'
     },
     title: 'Landing Russia Application',
     meta: [
