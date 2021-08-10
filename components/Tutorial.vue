@@ -8,7 +8,7 @@
           Landing Russia Application
         </h2>
         <p class="mt-3 text-gray-600">
-          Comming soon!
+          Coming soon!
         </p>
       </div>
     </div>
